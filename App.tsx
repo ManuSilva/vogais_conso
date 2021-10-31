@@ -184,9 +184,6 @@ const styles = StyleSheet.create({
   container_list: {
     flex: 1,
     flexDirection: 'column',
-    //    justifyContent: 'space-between',
-    //    alignItems: 'baseline',
-    //    backgroundColor: '#f5f9eb',
     padding: 0,
   },
   button: {
